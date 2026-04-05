@@ -1,8 +1,8 @@
-# 🖥️ IT Support Portfolio
+#  IT Support Portfolio
 
 This repository showcases my practical skills in IT support and troubleshooting. It includes common technical issues, their causes, and step-by-step solutions based on real-world scenarios.
 
-## 🔧 1. Computer Not Connecting to Internet
+##  1. Computer Not Connecting to Internet
 
 **Possible Causes:**
 
@@ -18,7 +18,7 @@ This repository showcases my practical skills in IT support and troubleshooting.
 4. Restart router and computer
 5. Test connectivity using `ping 8.8.8.8`
 
-## 🐢 2. Slow Computer Performance
+##  2. Slow Computer Performance
 
 **Possible Causes:**
 
@@ -33,7 +33,7 @@ This repository showcases my practical skills in IT support and troubleshooting.
 3. Delete temporary files using Disk Cleanup
 4. Upgrade RAM if necessary
 
-## 🖨️ 3. Printer Not Responding
+##  3. Printer Not Responding
 
 **Possible Causes:**
 
@@ -48,7 +48,7 @@ This repository showcases my practical skills in IT support and troubleshooting.
 3. Restart Print Spooler service
 4. Reinstall or update printer drivers
 
-## 🔐 4. User Cannot Log In
+##  4. User Cannot Log In
 
 **Possible Causes:**
 
@@ -63,7 +63,7 @@ This repository showcases my practical skills in IT support and troubleshooting.
 3. Unlock account in system settings
 4. Check domain connection (for enterprise systems)
 
-## 🌐 5. No Network Access (Limited Connectivity)
+##  5. No Network Access (Limited Connectivity)
 
 **Possible Causes:**
 
@@ -79,7 +79,7 @@ This repository showcases my practical skills in IT support and troubleshooting.
 4. Update network drivers
 
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 * IT Troubleshooting
 * Network Diagnostics
@@ -87,6 +87,4 @@ This repository showcases my practical skills in IT support and troubleshooting.
 * Problem Solving
 * End-User Support
 
-## 📌 Note
 
-This portfolio is continuously updated with more real-world IT support scenarios and solutions.
