@@ -79,12 +79,3 @@ This repository showcases my practical skills in IT support and troubleshooting.
 4. Update network drivers
 
 
-##  Skills Demonstrated
-
-* IT Troubleshooting
-* Network Diagnostics
-* System Support (Windows)
-* Problem Solving
-* End-User Support
-
-
